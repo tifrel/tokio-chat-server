@@ -4,3 +4,4 @@ This repo is a follow-along of
 ## Commits/iterations on the server
 
 1. A simple server that echoes what is being sent, and then exits
+2. A server that echoes until the client disconnects and then exits.
